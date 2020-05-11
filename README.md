@@ -47,3 +47,4 @@ kubectl delete service drupal
 
 TODO:
 PV/PVC Setup with NFS
+https://kubernetes.io/docs/concepts/storage/persistent-volumes/
